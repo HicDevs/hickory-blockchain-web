@@ -1,0 +1,14 @@
+{
+  "name": "Hickory Blockchain",
+  "short_name": "Hickory",
+  "icons": [
+    {
+      "src": "/logos/HIC.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0b1119",
+  "background_color": "#0b1119",
+  "display": "standalone"
+}
