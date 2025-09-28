@@ -19,7 +19,7 @@ export default function WhitepaperSection() {
         <h2 className="text-3xl sm:text-4xl font-semibold mb-4 tracking-tightish">Whitepaper (V1)</h2>
         <p className="text-white/75 leading-7 max-w-3xl">
           Hickory is a PoS blockchain (Cosmos SDK + IBC) introducing BMSSP for faster networking.
-          Final supply is <strong>100M HIC Coin</strong>. A <strong>pre‑launch 13,6 HIC Token</strong> is available for angels and early supporters and
+          Final supply is <strong>100M HIC Coin</strong>. A <strong>pre‑launch 13.6 HIC Token</strong> is available for angels and early supporters and
           will swap <strong>1:1</strong> into HIC Coin at mainnet. Allocation follows a detailed 10‑category model (Fundraising, Validator, Liquidity, Referral, Ambassador, Dev Grants, Governance, Partnerships, Team, Treasury).
         </p>
         <div className="mt-6 flex gap-3">
