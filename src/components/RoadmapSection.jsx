@@ -46,7 +46,7 @@ const phases = [
   },
   {
     phase: '2027 Q1',
-    title: 'Treasury Expansion (Dubai)',
+    title: 'Treasury Expansion (UAE)',
     items: [
       'Corporate treasury setup',
       'Market making & risk framework',
