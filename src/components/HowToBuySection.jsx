@@ -4,7 +4,7 @@ export default function HowToBuySection() {
       <div className="max-w-5xl mx-auto px-4">
         <h2 className="text-3xl sm:text-4xl font-semibold mb-4 tracking-tightish">How to Buy HIC Token</h2>
         <p className="text-white/75 leading-7 max-w-3xl">
-          You are buying the <strong>pre‑launch HIC Token</strong> (total 100,000,000) — <em>Cosmos Tokenfactory, listed on Osmosis</em>. At mainnet, your tokens migrate <strong>1:1</strong> into <strong>HIC Coin</strong>. Follow these steps to participate.
+          You are buying the <strong>pre‑launch HIC Token</strong> (total 13,600,000) — <em>Cosmos Tokenfactory, listed on Osmosis</em>. At mainnet, your tokens migrate <strong>1:1</strong> into <strong>HIC Coin</strong>. Follow these steps to participate.
         </p>
         <ol className="mt-6 space-y-3 list-decimal list-inside text-white/85">
           <li>
