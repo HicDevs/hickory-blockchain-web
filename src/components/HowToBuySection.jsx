@@ -25,7 +25,7 @@ export default function HowToBuySection() {
           </li>
         </ol>
         <div className="mt-4 text-sm text-white/70">
-          Note: Early purchases are part of the <strong>100M HIC Token</strong> allocation for angels and early supporters. Mainnet swap is automatic (1:1).
+          Note: Early purchases are part of the <strong>13,6M HIC Token</strong> allocation for angels and early supporters. Mainnet swap is automatic (1:1).
           <span className="block text-white/60 text-xs mt-1">
             KYC/AML is required to participate. Jurisdictional restrictions may apply.
           </span>
