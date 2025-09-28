@@ -1,7 +1,7 @@
 const resources = [
   {
     title: 'Investor Brief (Pre‑launch Token Sale)',
-    description: 'Overview of 100M HIC Token private sale (SAFT) and 1:1 migration into HIC Coin at mainnet.',
+    description: 'Overview of 13.6M HIC Token private sale (SAFT) and 1:1 migration into HIC Coin at mainnet.',
     href: '/docs/Hickory_Investor_Brief.pdf',
   },
   {
@@ -51,7 +51,7 @@ const resources = [
   },
   {
     title: 'Migration Handbook',
-    description: '100M Token → 100M Coin (1:1)',
+    description: '13.6M Token → 13.6M Coin (1:1)',
     href: '/docs/HIC_Migration_Handbook.pdf',
   },
   {
