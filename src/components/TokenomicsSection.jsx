@@ -23,7 +23,7 @@ export default function TokenomicsSection() {
           <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10 text-sm">
             <div className="font-medium mb-1">Pre‑launch Phase (Now)</div>
             <div className="text-white/80">
-              <strong>100,000,000 HIC Tokens</strong> constitute the pre‑launch supply via <strong>Cosmos Tokenfactory</strong>, distributed per the allocation model. At mainnet,
+              <strong>13,600,000 HIC Tokens</strong> constitute the pre‑launch supply via <strong>Cosmos Tokenfactory</strong>, distributed per the allocation model. At mainnet,
               all tokens migrate at a <strong>1:1</strong> ratio into the final <strong>100,000,000 HIC Coin</strong> supply, and the pre‑launch tokens are burned.
             </div>
             <div className="mt-2 text-xs text-white/70">
